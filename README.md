@@ -1,5 +1,5 @@
-# Page Replacement Algorithms: FIFO, LRU, OPT, and CLOCK by Rui Wu
-\
+# Page Replacement Algorithms: FIFO, LRU, OPT, and CLOCK
+
 I'll walk you through how each of these page replacement algorithms works, explaining both the conceptual approach and the code implementation step by step.
 
 ## 1. FIFO (First-In-First-Out)
